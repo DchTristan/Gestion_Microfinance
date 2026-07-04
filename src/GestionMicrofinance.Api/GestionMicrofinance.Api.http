@@ -1,0 +1,6 @@
+@GestionMicrofinance.Api_HostAddress = http://localhost:5053
+
+GET {{GestionMicrofinance.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
